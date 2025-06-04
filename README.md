@@ -1,6 +1,10 @@
-## 📌 About the Group
+<p align="center">
+  <img src="7AHL_pydock3.png" alt="7AHL" width="150"/>
+</p>
 
-The **Structural Bioinformatics, Modelling and Biological Mechanisms Group** is part of the Institute of Grapevine and Wine Sciences (ICVV), a joint research center governed by the Spanish National Research Council (CSIC), the Government of La Rioja, and the University of La Rioja. Our multidisciplinary team includes experts in Bioinformatics, Biochemistry, Physics, and Computer Science, specializing in statistical, mathematical, engineering, and biological modeling.
+<h1 align="center">Model3DBio Group</h1>
+                                                                                                        
+📌 The **Structural Bioinformatics, Modelling and Biological Mechanisms Group** (Model3DBio) is part of the Institute of Grapevine and Wine Sciences (ICVV), a joint research center governed by the Spanish National Research Council (CSIC), the Government of La Rioja, and the University of La Rioja. Our multidisciplinary team includes experts in Bioinformatics, Biochemistry, Physics, and Computer Science, specializing in statistical, mathematical, engineering, and biological modeling.
 
 The main objective of the group is the development and application of computational methods for the structural modeling of biomolecules and biological mechanisms relevant to viticulture and oenology. We aim to understand and rationally manipulate biomolecular processes related to wine, covering everything from metabolite biosynthesis in grapevines and their transformation in fermentation microorganisms to their effects on human health.
 

@@ -118,46 +118,35 @@ We also coordinate the **Structural Bioinformatics and Modelling Platform** with
 
 Some portals and servers we maintain for the community:
 
-* **CCharPPI**
+* [**CCharPPI**](https://life.bsc.es/pid/ccharppi)
   Computational Characterisation of Protein–Protein Interactions.
-  [https://life.bsc.es/pid/ccharppi](https://life.bsc.es/pid/ccharppi)
-
-* **OPRA Server**
+  
+* [**OPRA Server**](https://life.bsc.es/pid/opra)
   OPRA (Optimal Protein–RNA Area): identifies potential RNA-binding sites on proteins and facilitates modeling of biologically or therapeutically relevant protein–RNA interactions.
-  [https://life.bsc.es/pid/opra](https://life.bsc.es/pid/opra)
-
-* **Protein–RNA Benchmark v1.0**
+ 
+* [**Protein–RNA Benchmark v1.0**](https://life.bsc.es/pid/protein-rna-benchmark/)
   Dataset of 106 cases for benchmarking protein–RNA docking (unbound–unbound, unbound–bound, model–bound, etc.).
-  [https://life.bsc.es/pid/protein-rna-benchmark/](https://life.bsc.es/pid/protein-rna-benchmark/)
 
-* **pyDock**
+* [**pyDockWEB**](https://life.bsc.es/pid/pydock/)
   Fast protocol using electrostatics and desolvation energy to score FFT-generated docking conformations.
-  [https://life.bsc.es/pid/pydock/](https://life.bsc.es/pid/pydock/)
 
-* **pyDockEneRes**
+* [**pyDockEneRes**](https://life.bsc.es/pid/pydockeneres)
   Calculates per-residue energy contributions in protein–protein interactions.
-  [https://life.bsc.es/pid/pydockeneres](https://life.bsc.es/pid/pydockeneres)
 
-* **pyDockRescoring**
+* [**pyDockRescoring**](https://life.bsc.es/pid/pydockrescoring)
   Web service for rescoring jobs from the pyDockWEB server.
-  [https://life.bsc.es/pid/pydockrescoring](https://life.bsc.es/pid/pydockrescoring)
 
-* **pyDockSAXS**
+* [**pyDockSAXS**](https://life.bsc.es/pid/pydocksaxs)
   Rigid-body protein–protein docking server integrating SAXS experimental data to refine predictions.
-  [https://life.bsc.es/pid/pydocksaxs](https://life.bsc.es/pid/pydocksaxs)
 
-* **pyDockWEB**
+* [**pyDockWEB**](https://life.bsc.es/pid/pydockweb)
   Web server for structural prediction of protein–protein interactions via computational docking.
-  [https://life.bsc.es/pid/pydockweb](https://life.bsc.es/pid/pydockweb)
-
-* **pyDockDNA**
+  
+* [**pyDockDNA**](https://model3dbio.csic.es/pydockdna)
   Web server for structural prediction of protein–DNA interactions using computational docking.
-  [https://model3dbio.csic.es/pydockdna](https://model3dbio.csic.es/pydockdna)
 
-* **SKEMPI 2.0**
+* [**SKEMPI 2.0**](https://life.bsc.es/pid/skempi2)
   Database of 7000+ protein–protein mutation data, including thermodynamic and kinetic binding changes with available interaction structures.
-  [https://life.bsc.es/pid/skempi2](https://life.bsc.es/pid/skempi2)
-
 ---
 
 ## 🔗 Useful Links
@@ -313,45 +302,35 @@ Además, coordinamos la **Plataforma de Bioinformática Estructural y Modelado**
 
 Algunos de los portales y servidores que mantenemos para la comunidad:
 
-* **CCharPPI**
+* [**CCharPPI**](https://life.bsc.es/pid/ccharppi)
   Computational Characterisation of Protein–Protein Interactions.
-  [https://life.bsc.es/pid/ccharppi](https://life.bsc.es/pid/ccharppi)
-
-* **OPRA Server**
-  OPRA (Optimal Protein–RNA Area): identifica posibles sitios de unión a ARN en proteínas y facilita el modelado de interacciones proteína–ARN de interés biológico o terapéutico.
-  [https://life.bsc.es/pid/opra](https://life.bsc.es/pid/opra)
-
-* **Protein–RNA Benchmark v1.0**
-  Conjunto de datos compuesto por 106 casos para benchmarking de docking proteína–ARN (unbound–unbound, unbound–bound, model–bound, etc.).
-  [https://life.bsc.es/pid/protein-rna-benchmark/](https://life.bsc.es/pid/protein-rna-benchmark/)
-
-* **pyDock**
-  Protocolo rápido que utiliza energía electrostática y desolvatación para puntuar conformaciones de docking generadas con algoritmos FFT.
-  [https://life.bsc.es/pid/pydock/](https://life.bsc.es/pid/pydock/)
-
-* **pyDockEneRes**
-  Calcula energía por residuo para interacciones proteína–proteína.
-  [https://life.bsc.es/pid/pydockeneres](https://life.bsc.es/pid/pydockeneres)
-
-* **pyDockRescoring**
-  Servicio web para rescoring de trabajos realizados con el servidor pyDockWEB.
-  [https://life.bsc.es/pid/pydockrescoring](https://life.bsc.es/pid/pydockrescoring)
-
-* **pyDockSAXS**
-  Servidor de docking rígido proteína–proteína que integra información experimental de SAXS para refinar las predicciones.
-  [https://life.bsc.es/pid/pydocksaxs](https://life.bsc.es/pid/pydocksaxs)
-
-* **pyDockWEB**
-  Servidor web para la predicción estructural de interacciones proteína–proteína mediante docking computacional.
-  [https://life.bsc.es/pid/pydockweb](https://life.bsc.es/pid/pydockweb)
-
-* **pyDockDNA**
-  Servidor web para la predicción estructural de interacciones proteína–proteína mediante docking computacional.
-  [https://model3dbio.csic.es/pydockdna](https://model3dbio.csic.es/pydockdna)
   
-* **SKEMPI 2.0**
+* [**OPRA Server**](https://life.bsc.es/pid/opra)
+  OPRA (Optimal Protein–RNA Area): identifica posibles sitios de unión a ARN en proteínas y facilita el modelado de interacciones proteína–ARN de interés biológico o terapéutico.
+  
+* [**Protein–RNA Benchmark v1.0**](https://life.bsc.es/pid/protein-rna-benchmark/)
+  Conjunto de datos compuesto por 106 casos para benchmarking de docking proteína–ARN (unbound–unbound, unbound–bound, model–bound, etc.).
+
+* [**pyDockWEB**](https://life.bsc.es/pid/pydock/)
+  Protocolo rápido que utiliza energía electrostática, Van der Waals y desolvatación para puntuar conformaciones de docking generadas con algoritmos FFT.
+
+* [**pyDockEneRes**](https://life.bsc.es/pid/pydockeneres)
+  Calcula energía por residuo para interacciones proteína–proteína.
+
+* [**pyDockRescoring**](https://life.bsc.es/pid/pydockrescoring)
+  Servicio web para rescoring de trabajos realizados con el servidor pyDockWEB.
+
+* [**pyDockSAXS**](https://life.bsc.es/pid/pydocksaxs)
+  Servidor de docking rígido proteína–proteína que integra información experimental de SAXS para refinar las predicciones.
+
+* [**pyDockWEB**](https://life.bsc.es/pid/pydockweb)
+  Servidor web para la predicción estructural de interacciones proteína–proteína mediante docking computacional.
+
+* [**pyDockDNA**](https://model3dbio.csic.es/pydockdna)
+  Servidor web para la predicción estructural de interacciones proteína–proteína mediante docking computacional.
+  
+* [**SKEMPI 2.0**](https://life.bsc.es/pid/skempi2)
   Base de datos con más de 7000 datos de mutaciones que incluyen cambios en parámetros termodinámicos y cinéticos de unión proteína–proteína cuando la estructura de la interacción está disponible en el PDB.
-  [https://life.bsc.es/pid/skempi2](https://life.bsc.es/pid/skempi2)
 
 ---
 
@@ -360,7 +339,7 @@ Algunos de los portales y servidores que mantenemos para la comunidad:
 * [**ICVV – Instituto de Ciencias de la Vid y el Vino**](https://www.icvv.es)
 * [**Grupo de Bioinformática Estructural (web interna)**](https://www.icvv.es/3dbiowine)
   
-* [**CSIC Momentum Project:**]([https://momentum.csic.es/es/](https://momentum.csic.es))
+* [**CSIC Momentum Project:**](https://momentum.csic.es)
   Información sobre proyectos y convocatorias vinculadas.
 * [**Recursos Informáticos CSIC:**](https://www.csic.es/es/financiacion-y-recursos/servicios-recursos-informaticos)
 

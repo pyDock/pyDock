@@ -391,13 +391,3 @@ Nuestra misión es impulsar la investigación en enología y viticultura mediant
 * **Fomentar** la colaboración interdisciplinar entre bioinformáticos, biólogos, químicos e ingenieros.
 
 A largo plazo, aspiramos a ser un referente internacional en bioinformática estructural aplicada a las ciencias de la vid y el vino, generando herramientas abiertas y datos accesibles para toda la comunidad científica y el sector productivo.
-
----
-
-### Licencia
-
-Este repositorio está bajo licencia **MIT**. Consulta el fichero [LICENSE](LICENSE) para más detalles.
-
----
-
-*¡Gracias por visitar nuestro proyecto!

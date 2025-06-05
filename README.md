@@ -75,45 +75,6 @@ Our work is organized into three main research lines:
 
 ---
 
-## ⚙️ Infrastructure and Computational Resources
-
-We have powerful computing resources to support the development of our models:
-
-* **ICVV-CSIC Bullx R423E4 Local Server:** In-house HPC resources at ICVV.
-* **Beronia HPC Cluster (University of La Rioja):** Provided by the University of La Rioja for intensive workloads.
-* **Cluster Drago (CSIC):** Up to 5 Petaflops of theoretical performance for large-scale simulations.
-* **CESGA (Finis Terrae III):** Access to national/government-level supercomputing.
-
-We also coordinate the **Structural Bioinformatics and Modelling Platform** within the ICVV’s Molecular, Cellular and Bioinformatics Biology Service, hosting:
-
-* **Web Servers and Computational Tools** developed by the group (e.g., pyDockDNA, LightDock).
-* **Omics Analysis Technologies** (genomics, transcriptomics, metabolomics).
-* **Databases** specific to viticulture and oenology research.
-
----
-
-## 📚 Selected Publications (Last 5 Years)
-
-1. **Jiménez-Panizo, A., et al.** (2022). *The multivalency of the glucocorticoid receptor ligand-binding domain explains its manifold physiological activities.* **Nucleic Acids Research** 50, 13063–13082.
-2. **Rodríguez-Lumbreras, L. A., Jiménez-García, B., Giménez-Santamarina, S., Fernández-Recio, J.** (2022). *pyDockDNA: A new web server for energy-based protein-DNA docking and scoring.* **Frontiers in Molecular Biosciences**, 9:988996.
-3. **Landras, A., et al.** (2022). *Novel treatment strategy for NRAS-mutated melanoma through a selective inhibitor of CD147/VEGFR-2 interaction.* **Oncogene** 41, 2254–2264.
-4. **Castell, C., et al.** (2021). *New Insights Into the Evolution of the Electron Transfer from Cytochrome f to Photosystem I in the Green and Red Branches of Photosynthetic Eukaryotes.* **Plant Cell Physiology** 63, 1082–1093.
-5. **Fernández-Recio, J.** (2020). *Modelling the Evolution of COVID-19 in High-Incidence European Countries and Regions.* **Journal of Clinical Medicine** 9, 1825.
-6. **Rosell, M., Fernández-Recio, J.** (2020). *Docking approaches for modeling multi-molecular assemblies.* **Current Opinion in Structural Biology** 64, 59–65.
-7. **Errasti-Murugarren, E., et al.** (2019). *L-amino acid transporter structure and molecular bases for the asymmetry of substrate interaction.* **Nature Communications** 10, 1807.
-8. **Jankauskaitė, J., et al.** (2019). *SKEMPI 2.0: An updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation.* **Bioinformatics** 35, 462–469.
-9. **Rosell, M., Fernández-Recio, J.** (2018). *Hot-spot analysis for drug discovery targeting protein-protein interactions.* **Expert Opinion on Drug Discovery** 13, 327–338.
-10. **Jiménez-García, B., et al.** (2018). *LightDock: A new multi-scale approach to protein-protein docking.* **Bioinformatics** 34, 49–55.
-
-> For a complete list of publications, see:
->
-> * [J. Fernández-Recio's ORCID](https://orcid.org/0000-0002-3986-7686)
-> * [Google Scholar](https://scholar.google.es/citations?user=p7uqDecAAAAJ&hl=en&oi=ao)
-> * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Fernandez-Recio+J%5BAuthor%5D)
-> * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55909661300)
-
----
-
 ## 🛠 Tools and Web Services
 
 Some portals and servers we maintain for the community:
@@ -149,16 +110,6 @@ Some portals and servers we maintain for the community:
   Database of 7000+ protein–protein mutation data, including thermodynamic and kinetic binding changes with available interaction structures.
 ---
 
-## 🔗 Useful Links
-
-* [**ICVV – Institute of Grapevine and Wine Sciences**](https://www.icvv.es)
-* [**Structural Bioinformatics Group (internal site)**](https://www.icvv.es/english/3dbiowine)
-* [**CSIC Momentum Project:**](https://momentum.csic.es/en/)
-  Information on related projects and funding calls.
-* [**CSIC Computing Resources**](https://www.csic.es/es/financiacion-y-recursos/servicios-recursos-informaticos)
-
----
-
 ## 📈 How to Collaborate
 
 If you're interested in collaborating with us, contributing resources, or just staying informed:
@@ -171,19 +122,6 @@ If you're interested in collaborating with us, contributing resources, or just s
    * **J. Fernández-Recio (PI):** [juan.fernandezrecio@icvv.es](mailto:juan.fernandezrecio@icvv.es)
    * **L. A. Rodríguez-Lumbreras:** [luisangel.rodriguez@icvv.es](mailto:luisangel.rodriguez@icvv.es)
    * **V. Monteagudo-Honrubia:** [victor.monteagudo@icvv.es](mailto:victor.monteagudo@icvv.es)
-
----
-
-## 🚀 Mission and Vision
-
-Our mission is to advance wine and grapevine research through cutting-edge computational methods, integrating artificial intelligence and multiscale modeling to:
-
-* **Discover** new bioactive compounds derived from wine.
-* **Optimize** oenological processes (enzymes, yeasts, biotechnology).
-* **Understand** the molecular impact of grapevine varieties and their genetic polymorphisms.
-* **Promote** interdisciplinary collaboration between bioinformaticians, biologists, chemists, and engineers.
-
-In the long term, we aim to be an international reference in structural bioinformatics applied to grapevine and wine sciences, providing open tools and accessible data to the scientific community and production sector.
 
 ---
 ### Version en Español
@@ -260,44 +198,6 @@ Nuestras labores se organizan en tres líneas de investigación principales:
 * **V. Monteagudo-Honrubia** (1.º año)
 ---
 
-## ⚙️ Infraestructura y Recursos Computacionales
-
-Disponemos de potentes recursos de cálculo para impulsar el desarrollo de nuestros modelos:
-
-* **ICVV-CSIC Bullx R423E4 Local Server:** Recursos HPC propios del ICVV.
-* **Beronia HPC Cluster (Univ. de La Rioja):** Facilitado por la Universidad de La Rioja para cargas de trabajo intensivas.
-* **Cluster Drago (CSIC):** Hasta 5 Petaflops de rendimiento teórico, para simulaciones a gran escala.
-* **CESGA (Finis Terrae III):** Acceso a supercomputación de nivel nacional/gubernamental.
-
-Además, coordinamos la **Plataforma de Bioinformática Estructural y Modelado** dentro del Servicio de Biología Molecular, Celular y Bioinformática del ICVV, donde se alojan:
-
-* **Servidores Web y Herramientas Computacionales** desarrolladas por el grupo (e.g., pyDockDNA, LightDock).
-* **Tecnologías de Análisis Ómico** (genómica, transcriptómica, metabolómica).
-* **Bases de Datos** específicas de interés en investigación vitícola y enológica.
-
----
-
-## 📚 Publicaciones Seleccionadas (Últimos 5 Años)
-
-1. **Jiménez-Panizo, A., et al.** (2022). *The multivalency of the glucocorticoid receptor ligand-binding domain explains its manifold physiological activities.* **Nucleic Acids Research** 50, 13063–13082.
-2. **Rodríguez-Lumbreras, L. A., Jiménez-García, B., Giménez-Santamarina, S., Fernández-Recio, J.** (2022). *pyDockDNA: A new web server for energy-based protein-DNA docking and scoring.* **Frontiers in Molecular Biosciences**, 9:988996.
-3. **Landras, A., Reger de Moura, C., Villoutreix, B. O., Battistella, M., Sadoux, A., Dumaz, N., Menashi, S., Fernández-Recio, J., et al.** (2022). *Novel treatment strategy for NRAS-mutated melanoma through a selective inhibitor of CD147/VEGFR-2 interaction.* **Oncogene** 41, 2254–2264.
-4. **Castell, C., Rodríguez-Lumbreras, L. A., Hervás, M., Fernández-Recio, J., Navarro, J. A.** (2021). *New Insights Into the Evolution of the Electron Transfer from Cytochrome f to Photosystem I in the Green and Red Branches of Photosynthetic Eukaryotes.* **Plant Cell Physiology** 63, 1082–1093.
-5. **Fernández-Recio, J.** (2020). *Modelling the Evolution of COVID-19 in High-Incidence European Countries and Regions: Estimated Number of Infections and Impact of Past and Future Intervention Measures.* **Journal of Clinical Medicine** 9, 1825.
-6. **Rosell, M., Fernández-Recio, J.** (2020). *Docking approaches for modeling multi-molecular assemblies.* **Current Opinion in Structural Biology** 64, 59–65.
-7. **Errasti-Murugarren, E., Fort, J., Bartoccioni, P., Díaz, L., Pardon, E., Carpena, X., Espino-Guarch, M., Zorzano, A., Ziegler, C., Steyaert, J., Fernández-Recio, J., Fita, I., Palacín, M.** (2019). *L-amino acid transporter structure and molecular bases for the asymmetry of substrate interaction.* **Nature Communications** 10, 1807.
-8. **Jankauskaitė, J., Jiménez-García, B., Dapkūnas, J., Fernández-Recio, J., Moal, I. H.** (2019). *SKEMPI 2.0: An updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation.* **Bioinformatics** 35, 462–469.
-9. **Rosell, M., Fernández-Recio, J.** (2018). *Hot-spot analysis for drug discovery targeting protein-protein interactions.* **Expert Opinion on Drug Discovery** 13, 327–338.
-10. **Jiménez-García, B., Roel-Touris, J., Romero-Durana, M., Vidal, M., Jiménez-González, D., Fernández-Recio, J.** (2018). *LightDock: A new multi-scale approach to protein-protein docking.* **Bioinformatics** 34, 49–55.
-
-> Para un listado completo de publicaciones consulta:
->
-> * [ORCID de J. Fernández-Recio](https://orcid.org/0000-0002-3986-7686)
-> * [Google Scholar](https://scholar.google.es/citations?user=p7uqDecAAAAJ&hl=en&oi=ao)
-> * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Fernandez-Recio+J%5BAuthor%5D)
-> * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55909661300)
-
----
 ## 🛠 Herramientas y Servicios Web
 
 Algunos de los portales y servidores que mantenemos para la comunidad:
@@ -334,17 +234,6 @@ Algunos de los portales y servidores que mantenemos para la comunidad:
 
 ---
 
-## 🔗 Enlaces Útiles
-
-* [**ICVV – Instituto de Ciencias de la Vid y el Vino**](https://www.icvv.es)
-* [**Grupo de Bioinformática Estructural (web interna)**](https://www.icvv.es/3dbiowine)
-  
-* [**CSIC Momentum Project:**](https://momentum.csic.es)
-  Información sobre proyectos y convocatorias vinculadas.
-* [**Recursos Informáticos CSIC:**](https://www.csic.es/es/financiacion-y-recursos/servicios-recursos-informaticos)
-
----
-
 ## 📈 Cómo Colaborar
 
 Si te interesa colaborar con nosotros, donar recursos, o simplemente estar al tanto de nuestras últimas novedades:
@@ -358,15 +247,3 @@ Si te interesa colaborar con nosotros, donar recursos, o simplemente estar al ta
    * **L. A. Rodríguez-Lumbreras:** [luisangel.rodriguez@icvv.es](mailto:luisangel.rodriguez@icvv.es)
    * **V. Monteagudo-Honrubia:** [victor.monteagudo@icvv.es](victor.monteagudo@icvv.es)
 
----
-
-## 🚀 Misión y Visión
-
-Nuestra misión es impulsar la investigación en enología y viticultura mediante métodos computacionales de vanguardia, integrando inteligencia artificial y modelado multiescala para:
-
-* **Descubrir** nuevos compuestos bioactivos derivados del vino.
-* **Optimizar** procesos enológicos (enzimas, levaduras, biotecnología).
-* **Conocer** el impacto molecular de variedades de vid y sus polimorfismos genéticos.
-* **Fomentar** la colaboración interdisciplinar entre bioinformáticos, biólogos, químicos e ingenieros.
-
-A largo plazo, aspiramos a ser un referente internacional en bioinformática estructural aplicada a las ciencias de la vid y el vino, generando herramientas abiertas y datos accesibles para toda la comunidad científica y el sector productivo.

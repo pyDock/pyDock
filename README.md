@@ -4,10 +4,9 @@
 
 <h1 align="center">pyDock</h1>
 
-📌 This private repository contains the internal codebase for the **pyDock family of tools and related servers**, originally developed at the **Barcelona Supercomputing Center (BSC)** within the former **Protein Interactions and Docking Group**.  
+📌 This private repository contains the internal codebase for the **pyDock family of tools and related servers**.
+The pyDock framework was initially developed at the **University of Cambridge**, and later rewritten, modernized, and implemented as a suite of web servers at the **Barcelona Supercomputing Center (BSC)** within the former **Protein Interactions and Docking Group**.
 These tools are now maintained and further developed by the **Model3DBio Group** at the Institute of Grapevine and Wine Sciences (ICVV–CSIC).
-
----
 
 ## 🛠 pyDock Tools and Web Servers
 

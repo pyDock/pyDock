@@ -60,16 +60,65 @@ If you need access, want to collaborate, or would like to propose improvements:
   * **L. A. Rodríguez-Lumbreras:** luisangel.rodriguez@icvv.es  
 
 ---
+📌 Este repositorio privado contiene el código interno para la **familia de herramientas pyDock y sus servidores asociados**.
+El framework pyDock fue desarrollado inicialmente en la **Universidad de Cambridge**, y posteriormente reescrito, modernizado e implementado como un conjunto de servidores web en el **Barcelona Supercomputing Center (BSC)** dentro del antiguo **Protein Interactions and Docking Group**.
+Actualmente, estas herramientas están mantenidas y siguen evolucionando bajo la responsabilidad del **grupo Model3DBio** en el Instituto de Ciencias de la Vid y el Vino (ICVV–CSIC).
 
-## 🇪🇸 Versión en Español
+## 🛠 Herramientas y Servidores Web de pyDock
 
-Este repositorio privado contiene el **código interno de pyDock y sus servidores asociados**, desarrollado originalmente en el **Barcelona Supercomputing Center (BSC)** dentro del antiguo **Protein Interactions and Docking Group**, y actualmente mantenido por el Grupo **Model3DBio (ICVV–CSIC)**.
+A continuación se muestra la lista de servidores públicos cuyo código fuente se mantiene de forma privada en este repositorio:
 
-### 🛠 Herramientas pyDock disponibles públicamente
+### 🔹 **pyDock**
 
-- **pyDock** — https://life.bsc.es/pid/pydock/  
-- **pyDockWEB** — https://life.bsc.es/pid/pydockweb/  
-- **pyDockEneRes** — https://life.bsc.es/pid/pydockeneres  
-- **pyDockRescoring** — https://life.bsc.es/pid/pydockrescoring  
-- **pyDockSAXS** — https://life.bsc.es/pid/pydocksaxs  
-- **pyDockDNA** — https://model3dbio.csic.es/pydockdna
+**URL:** [https://life.bsc.es/pid/pydock/](https://life.bsc.es/pid/pydock/)
+Protocolo rápido de puntuación de *docking* basado en electrostática y desolvación para clasificar conformaciones generadas mediante FFT.
+
+### 🔹 **pyDockWEB**
+
+**URL:** [https://life.bsc.es/pid/pydockweb/](https://life.bsc.es/pid/pydockweb/)
+Servidor web para predecir estructuras de interacciones proteína–proteína mediante *rigid-body docking*.
+
+### 🔹 **pyDockEneRes**
+
+**URL:** [https://life.bsc.es/pid/pydockeneres](https://life.bsc.es/pid/pydockeneres)
+Calcula contribuciones energéticas por residuo en interfaces proteína–proteína.
+
+### 🔹 **pyDockRescoring**
+
+**URL:** [https://life.bsc.es/pid/pydockrescoring](https://life.bsc.es/pid/pydockrescoring)
+Pipeline independiente y servicio web para re-puntuar poses de *docking* generadas con pyDockWEB.
+
+### 🔹 **pyDockSAXS**
+
+**URL:** [https://life.bsc.es/pid/pydocksaxs](https://life.bsc.es/pid/pydocksaxs)
+*Rigid-body docking* con refinamiento de puntuación guiado por datos SAXS.
+
+### 🔹 **pyDockDNA**
+
+**URL:** [https://model3dbio.csic.es/pydockdna](https://model3dbio.csic.es/pydockdna)
+Servidor web para realizar *docking* entre proteínas y moléculas de ADN.
+
+---
+
+## 🔒 Notas Internas
+
+Este repositorio alberga:
+
+* El **código fuente privado** de los motores pyDock.
+* Módulos heredados desarrollados en el BSC.
+* Versiones actualizadas y optimizadas mantenidas por el grupo Model3DBio.
+* Interfaces y utilidades utilizadas por los servidores públicos mencionados anteriormente.
+
+---
+
+## 📈 Colaboración
+
+Si necesitas acceso, deseas colaborar o quieres proponer mejoras:
+
+* Abre una **Issue** en este repositorio.
+* Contacta con los responsables:
+
+  * **J. Fernández-Recio (IP):** [juan.fernandezrecio@icvv.es](mailto:juan.fernandezrecio@icvv.es)
+  * **L. A. Rodríguez-Lumbreras:** [luisangel.rodriguez@icvv.es](mailto:luisangel.rodriguez@icvv.es)
+
+---

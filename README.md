@@ -73,5 +73,3 @@ Este repositorio privado contiene el **código interno de pyDock y sus servidore
 - **pyDockRescoring** — https://life.bsc.es/pid/pydockrescoring  
 - **pyDockSAXS** — https://life.bsc.es/pid/pydocksaxs  
 - **pyDockDNA** — https://model3dbio.csic.es/pydockdna
-
-Solo dime.
